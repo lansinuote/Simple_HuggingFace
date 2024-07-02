@@ -11,3 +11,5 @@ transformers==4.42.3
 datasets==2.20.0
 
 huggingface_hub==0.23.4
+
+视频教程:制作中.
