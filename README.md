@@ -12,4 +12,4 @@ datasets==2.20.0
 
 huggingface_hub==0.23.4
 
-视频教程:制作中.
+视频教程:https://www.bilibili.com/video/BV1ti421Y7bE
